@@ -1,37 +1,19 @@
-## Welcome to Ms. Park's Github
+# Jihae Park's Projects
+Welcome!
 
-You can use the [editor on GitHub](https://github.com/jpark-29/nycscertweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Below is section for each course from this summer program and one piece of work from each course showcased:D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project Links
 
-### Markdown
+### 1. CSCI70900 - Programming in a high level language
+* [GAME OF LIFE](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jpark-29/blob/master/programming/3/Cgol.java)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 2. CSCI 70300 - Data Structures in a high level language
+Pointers:
+* [Node.java](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jpark-29/blob/master/ds/Pointers/Node.java)
+* [Driver.java](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jpark-29/blob/master/ds/Pointers/Driver.java)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpark-29/nycscertweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 3. SEDC 71900 Methods for teaching computer science 
+* [Scaffold Activity](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jpark-29/blob/master/methods/06_scaffold_activity.java)
+  
