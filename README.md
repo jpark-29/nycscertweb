@@ -1,3 +1,1 @@
-# nycscertweb
-
-Jihae Park Summer 2022 :D
+# nycscertweb - Jihae Park Summer 2022 :D
